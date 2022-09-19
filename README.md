@@ -10,7 +10,7 @@
    <p>Create wonderful websites from zero to hero with these guides. <br>
    Explore the possibilities of web designing and get to publish your very own project for the world to see</p>
    
-   <br><br>
+   <br>
    
    <a href="https://stephenalcantara.github.io/learn-frontend/">
     View deployment page
