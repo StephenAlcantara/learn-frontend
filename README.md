@@ -1,5 +1,6 @@
 <!-- HEADER -->
 
+<br><br>
 <div align="center">
   <a href="https://github.com/StephenAlcantara/learn-frontend">
     <img src="README-assets/logo.png">
@@ -44,7 +45,7 @@
 <div align="center">
   <img src="README-assets/screenshot.png">
   
-  <h2>What is <code>Learn Frontend</code>?</h2>
+  <h2 id="about">What is <code>Learn Frontend</code>?</h2>
   <p>Originally created as a sample design website, <br>
   it aims for the audience who are presumptively coding beginners, <br>
   a roadmap to get them started in their web designing path.</p>
