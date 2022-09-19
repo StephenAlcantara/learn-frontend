@@ -118,8 +118,8 @@
   <img src="README-assets/frameworks.png">
 
   <h2>What are Frameworks</h2>
-  <p>They are CSS frameworks and packages having pre-written, <br>
-  standardized code in folders and files. <br>
+  <p>They are templates and packages having pre-written, <br>
+  standardized code in folders and files. <br><br>
   They offer you a base to develop on while still <br>
   enabling flexibility with the concluding design.</p>
   
