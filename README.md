@@ -159,7 +159,7 @@
   
   <p>A code repository is an archive of the code that is being worked on. <br>
   Beyond the code itself, you can keep things such as documentation, <br>
-  notes, web pages, and other items in your repository. <br>
+  notes, web pages, and other items in your repository. <br><br>
   A code repository is required for any successful software development project</p>
   
   <br><p>(<a href="#table-of-contents">Back to top</a>)</p>
