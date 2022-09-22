@@ -155,11 +155,11 @@
   <p>GitHub is a code hosting platform for version control and collaboration. <br>
   It lets you and others work together on projects from anywhere.</p>
   
-  <br><br>
+  <br>
   
   <p>A code repository is an archive of the code that is being worked on. <br>
   Beyond the code itself, you can keep things such as documentation, <br>
-  notes, web pages, and other items in your repository. <br><br>
+  notes, web pages, and other items in your repository. <br><br><br>
   A code repository is required for any successful software development project</p>
   
   <br><p>(<a href="#table-of-contents">Back to top</a>)</p>
