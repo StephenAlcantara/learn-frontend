@@ -165,7 +165,7 @@
   <br><p>(<a href="#table-of-contents">Back to top</a>)</p>
 </div>
 
-<!-- MARKDOWN LINKS & IMAGES/LOGO -->
+<!-- MARKDOWN LINKS & IMAGES -->
 
 [Sass]: https://img.shields.io/badge/Sass-FF69B4?style=for-the-badge&logo=sass&logoColor=white
 [Sass-url]: https://sass-lang.com/
