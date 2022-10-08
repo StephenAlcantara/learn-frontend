@@ -6,7 +6,7 @@
     <img src="README-assets/logo.png">
    </a>
    
-   <h1>Start your Frontend Journey!</h1>
+   <h1>Start your Frontend Journey today!</h1>
    <p>Create wonderful websites from zero to hero with these guides. <br>
    Explore the possibilities of web designing and get to publish your very own project for the world to see</p>
    
